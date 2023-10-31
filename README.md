@@ -19,7 +19,7 @@ filetree
 ├── ARCHITECTURE.md
 ├── LICENSE.txt
 ├── README.md
-│  ├── /rules/
+│  ├── /variable selection problems/
 │  │  ├── backend.txt
 │  │  └── frontend.txt
 ├── manage.py
