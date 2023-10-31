@@ -13,16 +13,12 @@
 1. MATLAB R2018a及以上
 
 ### 文件目录说明
-eg:
 
 ```
 filetree 
 ├── ARCHITECTURE.md
 ├── LICENSE.txt
 ├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
 │  ├── /rules/
 │  │  ├── backend.txt
 │  │  └── frontend.txt
