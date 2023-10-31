@@ -25,11 +25,6 @@ filetree
 │  │  ├── xy1.m
 │  │  ├── matlab.mat
 │  │  └── Experimental results recording.xlsx
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
 └── /util/
 
 ```
