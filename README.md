@@ -27,6 +27,8 @@ MATLAB R2018a及以上
 ```matlab
 %Load a dataset:
 [x1,x2,time] = bhs_compare(A, y_noisy,nsamples,burnin, thin);
+```
+
 ### 文件目录说明
 
 ```
@@ -35,11 +37,9 @@ filetree
 ├── LICENSE.txt
 ├── README.md
 │  ├── /variable selection problems/
-│  │  ├── bhs_R.m
-│  │  ├── bhs_zu.m
-│  │  ├── xy1.m
-│  │  ├── matlab.mat
-│  │  └── Experimental results recording.xlsx
+│  │  ├── bhs_compare.m
+│  │  ├── test.m
+│  │  └── dataset.mat
 └── /util/
 
 ```
